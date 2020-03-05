@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\Ciandt.Hiring.SampleApi",
+    "\\src\\Ciandt.Hiring.SampleApi\\Context",
+    "\\src\\Ciandt.Hiring.SampleApi\\Controllers"
   ],
   "PreviewInSolutionExplorer": false
 }
